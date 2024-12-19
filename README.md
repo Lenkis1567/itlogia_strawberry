@@ -1,5 +1,5 @@
 # itlogia_strawberry
-Purpose:
+## Purpose:
 To practice
-Languages and instruments:
+## Languages and instruments:
 JS, jQuery, HTML, CSS, LESS, Gulp, some libraries like for loader
